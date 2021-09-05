@@ -1,8 +1,10 @@
-### Hi there 👋
+### Olá 😁
 
 
 - 📝 Trabalhando em Renault Automega - Financeiro
 - 📘 Estudando para se tornar FullStack - Java/Angular
+
+##
 
 <div>
   <a href="https://github.com/rafaballerini">
