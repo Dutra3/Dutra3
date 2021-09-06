@@ -1,5 +1,5 @@
 ### Olá 😁
-
+### Seja Bem Vinda(o)
 
 - 📝 Trabalhando em Renault Automega - Financeiro
 - 📘 Estudando para se tornar FullStack - Java/Angular
