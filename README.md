@@ -1,8 +1,7 @@
 ### Olá 😁
 ### Seja Bem Vinda(o)
 
-- 📝 Trabalhando em Renault Automega - Financeiro
-- 📘 Estudando para se tornar FullStack - Java/Angular
+- 📘 Estudando para se tornar FullStack
 
 ##
 
@@ -17,9 +16,6 @@
   <img align="center" alt="Dutra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dutra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Dutra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dutra-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  
-  <img align="center" alt="Dutra-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dutra-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
 </div>
   
   ##
