@@ -1,7 +1,7 @@
 ### Olá 😁
 ### Seja Bem Vinda(o)
 
-- 📘 Estudando para se tornar FullStack
+- 📘 Estudando para me tornar FullStack
 
 ##
 
