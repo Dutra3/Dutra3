@@ -1,7 +1,7 @@
 ### Olá 😁
 ### Seja Bem Vinda(o)
 
-- 📘 Estudando para me tornar FullStack
+- 📘 Cursando Análise e Desenvolvimento de Sistemas
 
 ##
 
