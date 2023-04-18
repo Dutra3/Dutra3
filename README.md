@@ -1,4 +1,3 @@
-### Olá 😁
 ### Seja Bem Vinda(o)
 
 - 📘 Cursando Análise e Desenvolvimento de Sistemas
