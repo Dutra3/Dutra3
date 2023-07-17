@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutra3&layout=compact&langs_count=7&theme=prussian"/>
+  <img width="4000em" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutra3&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   
   
