@@ -1,6 +1,7 @@
-### Seja Bem Vinda(o)
+### Welcome
 
-- 📘 Cursando Análise e Desenvolvimento de Sistemas
+- 📘 Graduated in Systems Analysis and Development.
+- 📘 Bachelor's degree in Economics
 
 ##
 
